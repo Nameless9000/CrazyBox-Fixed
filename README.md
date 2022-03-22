@@ -11,3 +11,5 @@ You can find the game folder by hovering over the cog then manage then click bro
 # Note
 
 I did not make this mod I only fixed it to work for the newest update
+
+**THIS WILL NOT REPLACE POWERBOX YOU STILL NEED IT IF YOU WANT TO GIVE CHARACTERS PERKS**
