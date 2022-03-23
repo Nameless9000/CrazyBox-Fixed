@@ -1,5 +1,5 @@
 # CrazyBox-Fixed
-This is a copy of the mod CrazyBox for WorldBox - God Simulator fixed for v1.13.10
+This is a copy of the mod CrazyBox for WorldBox - God Simulator fixed for NCMS v1.3.0.0
 
 ## How to use:
 
